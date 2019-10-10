@@ -1,0 +1,19 @@
+Phase,Sub Phase,Start Date,End Date
+Preparatory Phase,Literature Review,14/10/2019,31/10/2019
+Preparatory Phase,Find a suitable mathematical model,31/10/2019,15/11/2019
+Preparatory Phase,Define control objectives w.r.t. mathematical model,15/11/2019,30/11/2019
+Simulation and Modelling,Building and testing the mathematical model,04/11/2019,30/11/2019
+Simulation and Modelling,Design and test different control system configurations,30/11/2019,31/12/2019
+Testing and Improving Results,Analyse the robustness of the system,10/11/2019,10/12/2019
+Testing and Improving Results,Reiterate testing with improvements made to the model,10/12/2019,08/03/2020
+Analysis and Compilation of Results,Analyse the robustness of the system,15/12/2019,15/02/2020
+Analysis and Compilation of Results,Improve model performance,15/02/2020,08/03/2020
+Report writing,Project Proposal,30/09/2019,14/10/2019
+Report writing,Progress Report 1,14/10/2019,04/11/2019
+Report writing,Progress Report 2,04/11/2019,25/11/2019
+Report writing,Progress Report 3,25/11/2019,09/12/2019
+Report writing,Progress Report 4,09/12/2019,20/01/2020
+Report writing,Progress Report 5,20/01/2020,10/02/2020
+Report writing,Project Report,10/02/2020,02/03/2020
+Report writing,Project Poster,02/03/2020,18/03/2020
+Report writing,Final Report,18/03/2020,30/03/2020
